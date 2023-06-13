@@ -83,6 +83,9 @@ ignoreFiles = []
 
   copyright = "The Kubernetes Authors"
 
+  # the current latest version of kueue
+  semver = "v0.3.1"
+
   # Google Custom Search Engine ID.
   # gcs_engine_id = "007239566369470735695:624rglujm-w"
   prism_syntax_highlighting = true
